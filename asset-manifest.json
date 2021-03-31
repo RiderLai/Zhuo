@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.d5db02cc.chunk.css",
-    "main.js": "./static/js/main.d1522d45.chunk.js",
-    "main.js.map": "./static/js/main.d1522d45.chunk.js.map",
+    "main.js": "./static/js/main.0e80056f.chunk.js",
+    "main.js.map": "./static/js/main.0e80056f.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.b2e2256b.js",
     "runtime-main.js.map": "./static/js/runtime-main.b2e2256b.js.map",
     "static/js/2.6a74a7c6.chunk.js": "./static/js/2.6a74a7c6.chunk.js",
     "static/js/2.6a74a7c6.chunk.js.map": "./static/js/2.6a74a7c6.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.639786a75a9b1ba2c33cf1e70beabcfb.js": "./precache-manifest.639786a75a9b1ba2c33cf1e70beabcfb.js",
+    "precache-manifest.f376c0234fe07186303ff9c084c64bdd.js": "./precache-manifest.f376c0234fe07186303ff9c084c64bdd.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.d5db02cc.chunk.css.map": "./static/css/main.d5db02cc.chunk.css.map",
     "static/js/2.6a74a7c6.chunk.js.LICENSE.txt": "./static/js/2.6a74a7c6.chunk.js.LICENSE.txt",
@@ -34,12 +34,12 @@
     "static/media/8.jpg": "./static/media/8.ce395f43.jpg",
     "static/media/9.jpg": "./static/media/9.bd47f300.jpg",
     "static/media/index.css": "./static/media/Sinhala Sangam MN.0a87b975.ttc",
-    "static/media/contact.jpeg": "./static/media/contact.5bd10c4c.jpeg"
+    "static/media/contact1.jpeg": "./static/media/contact1.5bd10c4c.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.b2e2256b.js",
     "static/js/2.6a74a7c6.chunk.js",
     "static/css/main.d5db02cc.chunk.css",
-    "static/js/main.d1522d45.chunk.js"
+    "static/js/main.0e80056f.chunk.js"
   ]
 }
